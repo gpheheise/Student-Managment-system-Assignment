@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ManagementSystem()
+comment1.params=file
+comment1.target=ManagementSystem(java.io.File)
+comment2.params=
+comment2.target=void\ close()
+comment3.params=name\ phoneNo\ subject
+comment3.target=void\ insert(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=name\ phoneNo\ subject
+comment4.target=void\ insertOne(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=subject
+comment5.target=void\ list(java.lang.String)
+comment6.params=
+comment6.target=void\ listAll()
+comment7.params=name
+comment7.target=void\ remove(java.lang.String)
+comment8.params=name
+comment8.target=java.util.List\ search(java.lang.String)
+numComments=9
